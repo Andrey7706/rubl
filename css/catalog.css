@@ -1,4 +1,4 @@
-@import url(reset.css);
+п»ї@import url(reset.css);
 
 ul {
     list-style: none;
@@ -12,7 +12,7 @@ a:hover {
     text-decoration: none;
 }
 
-    /*Шапка*/
+    /*РЁР°РїРєР°*/
     
 #head-main {
     background: #f4f4f4;
@@ -277,16 +277,16 @@ a:hover {
     margin-top: -3px;
 }
 
-/*Конец шапки, начало контента*/
+/*РљРѕРЅРµС† С€Р°РїРєРё, РЅР°С‡Р°Р»Рѕ РєРѕРЅС‚РµРЅС‚Р°*/
 
-/*Конец шапки, начало контента*/
+/*РљРѕРЅРµС† С€Р°РїРєРё, РЅР°С‡Р°Р»Рѕ РєРѕРЅС‚РµРЅС‚Р°*/
 
 #karkas-main {
     max-width: 1280px;
     min-width: 1000px;
     margin: 40px auto 0 auto;
 }
-    /*Левый бар*/
+    /*Р›РµРІС‹Р№ Р±Р°СЂ*/
     
 #left-bar {
     float: left;
@@ -376,14 +376,14 @@ a:hover {
     text-decoration: none;
 }
 
-    /* Конец Vertical Mega Menu*/
+    /* РљРѕРЅРµС† Vertical Mega Menu*/
 
 #discont {
     display: block;
     margin: 0 auto;
 }
 
-    /*конец Левого бара, начало правого бара*/
+    /*РєРѕРЅРµС† Р›РµРІРѕРіРѕ Р±Р°СЂР°, РЅР°С‡Р°Р»Рѕ РїСЂР°РІРѕРіРѕ Р±Р°СЂР°*/
     
 #right-bar {
     float: right;
@@ -447,7 +447,7 @@ a:hover {
     color: #3f3f3f;
 }
 
-   /*Конец правого бара, начало контента*/
+   /*РљРѕРЅРµС† РїСЂР°РІРѕРіРѕ Р±Р°СЂР°, РЅР°С‡Р°Р»Рѕ РєРѕРЅС‚РµРЅС‚Р°*/
    
 #content-main {
     margin: 0 256px 0 20%;
@@ -646,7 +646,7 @@ a:hover {
 
 
 
-   /*Конец контента, начало футера*/
+   /*РљРѕРЅРµС† РєРѕРЅС‚РµРЅС‚Р°, РЅР°С‡Р°Р»Рѕ С„СѓС‚РµСЂР°*/
 
 #footer {
     overflow: hidden;
